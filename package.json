@@ -1,0 +1,24 @@
+{
+  "name": "alexa-spam-texter",
+  "version": "1.0.0",
+  "description": "spam your friends or enemies",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "twilio": "3.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anovis/alexa-spam-texter"
+  },
+  "author": "austen novis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anovis/alexa-spam-texter/issues"
+  },
+  "homepage": "https://github.com/anovis/alexa-spam-texter#readme"
+}

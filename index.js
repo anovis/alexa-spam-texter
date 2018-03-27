@@ -13,6 +13,23 @@ const handlers = {
         this.response.speak(welcomeSpeech).listen(repromptSpeech);
         this.emit(':responseReady');
 	},
+     'Unhandled': function() {
+              this.emit(':tell', 'Could not understand');
+       },
+    'AMAZON.HelpIntent': function () {
+          var welcomeSpeech = 'For example ask spam texter to spam message 1 to the phone number of you choice'
+          var repromptSpeech = 'Anything else you would like to ask?'
+          this.response.speak(welcomeSpeech).listen(repromptSpeech);
+          this.emit(':responseReady');
+      },
+      'AMAZON.StopIntent': function () {
+          console.log('stop skill')
+          self.emit(':tell', 'Stopping the spam texter skill')
+      },
+      'AMAZON.CancelIntent': function () {
+          console.log('cancel skill')
+          self.emit(':tell', 'Canceling the spam texter skill')
+      },
     'presets': function () {
         const intentObj = this.event.request.intent;
 

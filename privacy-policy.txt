@@ -1,0 +1,27 @@
+PRIVACY POLICY FOR Spam Texter ALEXA SKILL
+
+This agreement is between you and the developer of Spam Texter. It governs your use of the Spam Texter Skill on an Alexa enabled device, Amazon Echo (the ‘Skill’).
+
+This skill has access to the phone number that you speak to it. It uses this number to send text messages. This number is not saved or recorded anywhere. No other information is requested or required
+for this skill.
+
+
+By using the Skill, you agree to the following terms and conditions.
+
+In order to use the Skill you will need to download the Skill via a smartphone application (‘App’). The developer accepts no liability for any damage to your or any other persons computer or device relating to or resulting from using the Skill or downloading the Skill App.
+
+The developer shall not be responsible for any costs associated with operating the Skill including the purchase and use of an Alexa-enabled device/Amazon Echo or the internet connection.
+
+The Skill allows you to ask an Alexa enabled device questions. Any questions and commands given via Alexa will be treated as authorised by you. Any response Alexa provides will be given as authorised by you to do so.
+
+Please also refer to the separate terms and conditions of the Alexa enabled device, Amazon Echo. When asking Alexa for information, the Amazon Alexa will be retrieving this information for you and you agree to Amazon performing this.
+
+Amazon may record your interactions with the Skill or with Alexa. Please refer again to the terms and conditions of the Alexa enabled device, Amazon Echo.
+
+All information communicated via the Alexa enabled device will be displayed within the companion App for future reference.
+
+The developer accepts no responsibility for any damage, loss, liabilities, injury or disappointment incurred or suffered by you as a result of using the Skill.
+
+The developer reserves the right to modify or discontinue the Skill at any time without prior notice.
+
+Should you have any questions about the Skill please contact the developer.
